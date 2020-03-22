@@ -1,0 +1,11 @@
+ascii(sd
+      fa
+sd
+filter(as
+df
+ascii(df
+      a
+sd
+filter(ascii(delattr(fa
+                     sd
+filter(ascii(delattr(filter(asd))))))))))
